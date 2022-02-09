@@ -8,7 +8,7 @@ Si tienes gitpod : Clonar este repositorio en su GitHub, y abrir tu gitpod.
 
 ### Pre-requisitos 📋
 
-Instalar:
+Instalar en tu terminal:
 - npm install
 - npm install -g npm@latest
 - npm install Bootstrap
