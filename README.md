@@ -1,3 +1,19 @@
+# Battleship
+
+En esta página web podrás jugar el clásico “BattleShip” y tratar de hundir un acorazado 😉.
+
+## Comenzando 🚀
+
+Si tienes gitpod : Clonar este repositorio en su GitHub, y abrir tu gitpod.
+
+### Pre-requisitos 📋
+
+Instalar:
+npm install
+npm install -g npm@latest
+npm install Bootstrap
+
+__________________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
