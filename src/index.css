@@ -5,9 +5,44 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2HbynDtkRoykvenxEGPTaF/89ea1746e327f197387a7a4311ef03fd/-BS-_Hero_Image_-_Desktop.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+table{
+  background: white;
+  width: 600px;
+  height: 500px;
+}
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+  /* background: grey; */
+	width: 900px;
+	height: 150%;
+}
+td {
+  width: 60px;
+  height: 50px;
+
+}
+h1{
+  background: white;
+  color: red;
+  width: 550px;
+  height: 55px;
+  border-style: outset;
+}
+.azul{
+  background: darkblue;
+}
+.rojo{
+  background: darkred;
 }
